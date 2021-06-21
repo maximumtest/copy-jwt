@@ -15,7 +15,7 @@ Package is available on [Packagist](http://packagist.org/packages/lcobucci/jwt),
 you can install it using [Composer](http://getcomposer.org).
 
 ```shell
-composer require lcobucci/jwt
+composer require maximumtest/jwt
 ```
 
 ### Dependencies
